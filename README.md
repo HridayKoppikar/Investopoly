@@ -30,5 +30,5 @@ Materials:
  - Arduino Nano BLE
  - 9V Battery
 
-## Skills Used
+### Skills Used
 We used laser cutting to construct the project. Furthermore we used our knowledge of programming to create the logic for the game. We used CAD to create our 3D models and 3D printers to bring them to life.
